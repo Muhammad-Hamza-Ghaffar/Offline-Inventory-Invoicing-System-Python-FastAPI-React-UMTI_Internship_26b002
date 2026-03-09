@@ -1,0 +1,28 @@
+﻿# Backend
+backend/__pycache__/
+backend/*.py[cod]
+backend/*.pyo
+backend/*.pyd
+backend/*.db
+backend/*.sqlite3
+backend/venv/
+backend/env/
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/.env
+
+# Frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/package-lock.json
+frontend/.DS_Store
+
+# General
+.DS_Store
+*.log
+*.zip
+*.tar.gz
+.vscode/
+.idea/
